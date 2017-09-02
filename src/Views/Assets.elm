@@ -21,7 +21,7 @@ type Image
 
 error : Image
 error =
-    Image "/assets/images/error.jpg"
+    Image "%PUBLIC_URL%/assets/images/error.jpg"
 
 
 
